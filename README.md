@@ -54,7 +54,7 @@ The dashboard contains **2 pages**:
 
 ## 📷 Preview
 
-![Dashboard Preview](preview.png)
+![Dashboard Preview](Dashboard.jpg)
 
 ## 📃 License
 
